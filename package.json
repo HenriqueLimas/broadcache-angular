@@ -1,0 +1,15 @@
+{
+  "name": "broadcache-angular",
+  "version": "0.0.0",
+  "description": "AngularJS object to reduce the $broadcast Method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Limas",
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "^0.12.21",
+    "bower": "^"
+  }
+}
